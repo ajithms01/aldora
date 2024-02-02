@@ -1,6 +1,6 @@
 # aldora
 
-A new Flutter project.
+A Flutter App working as a voice assistant using chatgpt and DALL-E
 
 ## Getting Started
 
